@@ -1,5 +1,5 @@
-Hii, these are some screenshots of my MAGNUS E-Commerce App:
-- Arpan Bhattacharya
+  Hii, these are some screenshots of my MAGNUS E-Commerce App: <br>
+  By: Arpan Bhattacharya
 
 ![About Magnus](https://user-images.githubusercontent.com/48471308/200898254-3142be5c-2be1-4ddf-a941-9c133eb13da7.jpeg)
 ![Billing](https://user-images.githubusercontent.com/48471308/200898259-fa10f0b6-fa2c-45b0-8480-a3ebce2e4f31.jpeg)
